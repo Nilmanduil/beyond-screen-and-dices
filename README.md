@@ -1,6 +1,14 @@
-# BeyondScreenAndDices
+# Beyond Screen And Dices
+
+*Beyond Screen and Dices* (temporary name) is a RPG manager for both Dungeon Masters and their players.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+## Versions
+
+- Node 8.9.3
+- NPM 5.5.1
+- Angular 5.2.0
 
 ## Development server
 
@@ -25,3 +33,30 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Coming next
+
+### Dungeon Master side
+
+- Game description manager
+- Game features manager (characteristics, skills, races, classes, stuff ...)
+- Campaigns manager
+- Groups manager
+- Characters manager
+- Character sheets manager
+- Maps manager
+- CLI
+
+### Players side
+
+- Character manager
+- Stuff manager
+
+### BSaD Engine
+
+- Interactive realtime UI
+- Random generator
+  * Dices
+  * Cards
+- Chat with DM
+- API
