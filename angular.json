@@ -71,6 +71,8 @@
             "tsConfig": "src/tsconfig.spec.json",
             "scripts": [],
             "styles": [
+              "../node_modules/bootstrap/dist/css/bootstrap.css",
+              "../node_modules/@nebular/theme/styles/prebuilt/cosmic.css",
               "src/styles.css"
             ],
             "assets": [
